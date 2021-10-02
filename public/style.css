@@ -1,0 +1,11 @@
+.rootdev{
+    display: flex;
+}
+
+.card{
+    margin: 10px;
+}
+.card_len{
+    height:300px;
+    width: 300px;
+}
